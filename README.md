@@ -2,4 +2,6 @@
 
 ![Wendell's github stats](https://github-readme-stats.vercel.app/api?username=wppattonjr&show_icons=true&theme=onedark)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wppattonjr&repo=github-readme-stats)](https://github.com/wppattonjr/github-readme-stats)
+
 
